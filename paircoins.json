@@ -1,0 +1,12 @@
+{
+  1 : {
+      "logo": "https://raw.githubusercontent.com/hoopoe-finance/paircoins/main/hoop.png",
+      "video": "https://youtu.be/ysz5S6PUM-U",
+      "symbol": "HOOP"
+  },
+  2: {
+     "logo": "https://github.com/hoopoe-finance/paircoins/blob/main/ethg.png",
+      "video": "https://youtu.be/ysz5S6PUM-U",
+      "symbol": "ETHG"
+  }
+}
