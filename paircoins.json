@@ -1,12 +1,12 @@
 {
-  "0" : {
-      "logo": "https://raw.githubusercontent.com/hoopoe-finance/paircoins/main/hoop.png",
-      "video": "https://youtu.be/ysz5S6PUM-U",
-      "symbol": "HOOP"
-  },
-  "1": {
+  "0": {
      "logo": "https://raw.githubusercontent.com/hoopoe-finance/paircoins/main/ethg.png",
       "video": "https://youtu.be/ysz5S6PUM-U",
       "symbol": "ETHG"
+  },
+  "1" : {
+      "logo": "https://raw.githubusercontent.com/hoopoe-finance/paircoins/main/hoop.png",
+      "video": "https://youtu.be/ysz5S6PUM-U",
+      "symbol": "HOOP"
   }
 }
