@@ -8,5 +8,10 @@
       "logo": "https://raw.githubusercontent.com/hoopoe-finance/paircoins/main/hoop.png",
       "video": "https://youtu.be/ysz5S6PUM-U",
       "symbol": "HOOP"
+  },
+  "2" : {
+      "logo": "https://raw.githubusercontent.com/hoopoe-finance/paircoins/main/grpl.png",
+      "video": "https://youtu.be/ysz5S6PUM-U",
+      "symbol": "GRPL"
   }
 }
