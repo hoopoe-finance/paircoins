@@ -6,15 +6,9 @@
       "symbol": "HOOP"
   },
   "1" : {
-      "address": "0x016a7bD219A11cfFd0d6a749121977C707812ab4",
+      "address": "0xFc588255B18CbD36a3853E7424696FD3091bd380",
       "logo": "https://raw.githubusercontent.com/hoopoe-finance/paircoins/main/hoop.png",
       "video": "https://youtu.be/ysz5S6PUM-U",
-      "symbol": "HOOP"
-  },
-  "2" : {
-      "address": "0x6b7b4f46e466b84c949b7ed22223bcb6843eb57e",
-      "logo": "https://raw.githubusercontent.com/hoopoe-finance/paircoins/main/grpl.png",
-      "video": "https://youtu.be/ysz5S6PUM-U",
-      "symbol": "GRPL"
+      "symbol": "ETHG"
   }
 }
